@@ -1,6 +1,6 @@
 #code runs in python 3.4 or above
 
-#Disclaimer- All the vaiables  used in this program are randomly generated, any relevence to any person living or dead is completely coincidental 
+#Disclaimer- All the variables used in this program are randomly generated, any relevance to any person living or dead is completely coincidental 
 
 Helen = 'Not Helen Keller'
 loves =  'loves'
