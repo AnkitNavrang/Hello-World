@@ -12,9 +12,9 @@ in_really_low_definition = in_low_definition[0] + in_low_definition[4]
 #Parental advisory - only above 18 can call this function 
 def three_sum(one,another_one,yet_another_one):
     
-    four_is_jelous = one + another_one + yet_another_one
+    four_is_jealous = one + another_one + yet_another_one
 
-    print(four_is_jelous)
+    print(four_is_jealous)
 
 
 What = Helen[4:7] + loves[:2]
